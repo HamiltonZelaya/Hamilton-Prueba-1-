@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Shojumaru&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root{
+	--c-general: #999 ;
+	--c-titulos: #29373c;
+	--c-gris: #f9faf2;
+	--c-footer: #f49f28;
+}
+.hero{
+	text-align: center;
+}
+
+body{
+	font-family: Nanum Pen Script;
+}
+
+p{
+	color: var(--color-general);
+}
+
+
+
+.navbar-brand{
+	 font-weight: 300;
+    font-size:2;
+    font-family: Shojumaru;
+    color: #fff;
+}
+
+.nav-link{
+    font-size: 2;
+    font-family: Nanum Pen Script;
+    font-weight: 300;
+    color: #fff;
+}
+header{
+
+    border: none;
+	width: 90%;
+    color: #fff;
+}
+.ch h3{
+	font-weight: 200;
+	  color: var(--c-footer);
+    font-size: 1;
+   font-family: Nanum Pen Script;
+   
+  
+}
+.hero{
+    background-image: url("../img/bg-hero.png");
+    color: #fff;
+    width: 100%;
+	background-size: cover;
+    align-items: center;
+	 background-position: center;
+}
+
+.ch {
+  padding-top:90px;  
+}
+
+.ch h1{
+ color: var(--c-footer);
+ font-size: 5;
+ font-weight: 750;
+font-family: Shojumaru;
+    
+	
+}
+
+
+
+.hp{
+    color: var(--c-footer);
+}
+
+.ch h2{
+    font-size: 2;
+    font-family: Nanum Pen Script;
+    font-weight: 300;
+    color: #fff;
+}
+
+
+
+
+
+
+
+.ch {
+  padding-top:90px;  
+}
+
+
+.ch h2{
+    font-size: 1.5rem;
+    font-family: Nanum Pen Script;
+    font-weight: 300;
+    color: #fff;
+}
+
+
+
+
+
+.ch h1{
+ color: var(--c-footer);
+ font-size: 5;
+    font-weight: 750;
+font-family: Shojumaru;
+    
+	
+}
+
+
+.ch h3{
+	font-weight: 200;
+	  color: var(--c-footer);
+    font-size: 1;
+   font-family: Nanum Pen Script;
+   
+  
+}
+
+.hp{
+    color: var(--c-footer);
+}
+
+	
+	
+	
+	
+
+
+.Halloween{
+text-decoration-style: dotted;
+text-decoration: underline;         
+}
+
+#FAQ{
+padding-bottom:90px;
+	background-color:var(--c-gris);
+padding-top:90px;
+	
+}
+.text{
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+spam{
+	color: var(--c-general);
+}
+#service{
+	margin-top: 230px;
+	text-align: center;
+}
+#service h3{
+	margin-top:70px;
+}
+.container{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer{ text-align: center;
+	
+	    background-color: var(--c-footer);
+	padding-top: 100px;
+}
+.name{
+	padding-top: 50px;
+}
